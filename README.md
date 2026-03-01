@@ -196,16 +196,6 @@ ftar-react/
 
 ---
 
-## 🔒 Security Notes (Before Publishing)
-
-- Rotate any secrets that were ever committed.
-- Keep `.env` out of Git.
-- Use strong production `SESSION_SECRET`.
-- Ensure DB credentials come from environment variables only.
-- Review production cookie/CORS settings.
-
----
-
 ## 📄 License
 
 MIT (declared in `package.json`).
